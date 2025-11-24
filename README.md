@@ -8,4 +8,7 @@
     how does express js handles request behind the scenes
     what is the difference between app.use and app.all
 
+    js object and json difference
+    difference between put and patch
+
 -->
